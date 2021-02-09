@@ -1,0 +1,14 @@
+{
+    "legacy_addon_id": "INZ/UserUpgradeConversation",
+    "title": "[INZ] User Upgrade Conversation",
+    "description": "Creates conversation after user bought upgrade",
+    "version_id": 2000070,
+    "version_string": "2.0.0",
+    "dev": "inzanty",
+    "dev_url": "https://t.me/inzanty",
+    "faq_url": "",
+    "support_url": "",
+    "extra_urls": [],
+    "require": [],
+    "icon": "far fa-comments"
+}
